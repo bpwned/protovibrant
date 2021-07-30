@@ -1,5 +1,8 @@
 
-#main-window{ background: transparent !important }
+#main-window
+{
+    background: transparent !important;
+}
 
 #TabsToolbar,
 .table-widget-empty-text

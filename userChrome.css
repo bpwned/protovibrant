@@ -4,8 +4,8 @@
     background: transparent !important;
 }
 
-#TabsToolbar,
-.table-widget-empty-text
+#TabsToolbar:-moz-lwtheme-darktext,
+.table-widget-empty-text:-moz-lwtheme-darktext
 {
     -moz-appearance: -moz-mac-vibrant-titlebar-light !important;
  }
